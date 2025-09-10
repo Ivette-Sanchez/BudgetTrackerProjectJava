@@ -1,8 +1,10 @@
 # Compiled class files
 *.class
+
+# Output folders
 out/
 
-# IDE files
+# IDE configs
 .vscode/
 *.iml
 
