@@ -1,0 +1,5 @@
+INCOME:Salary | Income | 2025-05-05 : $2000.00
+INCOME:Volunteer | Help | 2025-05-09 : $300.00
+EXPENSE:Groceries | Shopping | 2025-05-04 : $250.00
+EXPENSE:Wendys | Food | 2025-05-07 : $15.00
+BALANCE:2035.0
